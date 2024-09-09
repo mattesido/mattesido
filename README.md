@@ -53,4 +53,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mattesido&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- My mentor (the best in the world): [Saverio Napolitano](https://github.com/SaverioNapolitano)
+
