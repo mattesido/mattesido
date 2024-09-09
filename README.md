@@ -12,6 +12,7 @@
 ### 👨‍💻 About me:
 - 🌱 I’m currently studying Computer Engineering at [UNIMORE](https://international.unimore.it)
 - 📫 How to reach me: mattesido02@outlook.com
+- My mentor: [Saverio Napolitano](https://github.com/SaverioNapolitano)
 
 ---
 
