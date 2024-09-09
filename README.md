@@ -12,6 +12,8 @@
 ### 👨‍💻 About me:
 - 🌱 I’m currently studying Computer Engineering at [UNIMORE](https://international.unimore.it)
 - 📫 How to reach me: mattesido02@outlook.com
+- Apple fanboy
+- [Part-time youtuber](https://youtube.com/@tecnosido?si=TUg4hXc-xsO5mBTt)
 
 ---
 
